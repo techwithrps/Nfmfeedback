@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://nfmfeedback.vercel.app/</title>
+  <link>https://nfmfeedback.vercel.app/</link>
+
+<item>
+     <link>https://nfmfeedback.vercel.app/</link>
+     <title>Thank You - Nanak Food Mart</title>
+     <description>Share your experience at Nanak Food Mart - Kanpur's trusted wholesale bakery and food supply store</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
